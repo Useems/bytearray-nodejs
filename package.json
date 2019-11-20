@@ -1,0 +1,56 @@
+{
+  "_from": "bytearray-nodejs",
+  "_id": "bytearray-nodejs@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-MjJmNmwjDMR/WCMUP8e/v8zFwscyzu7DXsVFJZBE+uK0uUTtCnuMXftOQICuuvt1GSVsJVe9qiIJ6sbgImSlcQ==",
+  "_location": "/bytearray-nodejs",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "bytearray-nodejs",
+    "name": "bytearray-nodejs",
+    "escapedName": "bytearray-nodejs",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/bytearray-nodejs/-/bytearray-nodejs-1.0.1.tgz",
+  "_shasum": "342c5ed313845ac080c8b0eea7d17c0a183142cc",
+  "_spec": "bytearray-nodejs",
+  "_where": "C:\\Users\\marco",
+  "author": {
+    "name": "Marcos André | marcos@outlook.in"
+  },
+  "bugs": {
+    "url": "https://github.com/Useems/bytearray-nodejs/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Node.js ByteArray an implementation of ActionScript ByteArray",
+  "homepage": "https://github.com/Useems/bytearray-nodejs#readme",
+  "keywords": [
+    "js",
+    "javascript",
+    "bytearray",
+    "as3",
+    "as",
+    "actionscript",
+    "flash",
+    "node",
+    "nodejs",
+    "node.js"
+  ],
+  "license": "MIT",
+  "main": "bytearray.js",
+  "name": "bytearray-nodejs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Useems/bytearray-nodejs.git"
+  },
+  "version": "1.0.1"
+}
